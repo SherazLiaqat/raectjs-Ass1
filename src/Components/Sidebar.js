@@ -9,12 +9,7 @@ const Sidebar = () => {
     <>
       <div class="sidebar">
         <img className="image" src={ProfilePic} alt="Logo" />
-        <Link to="/draft">
-          <span>
-            <AiFillGift />
-            &nbsp; My Recruitment
-          </span>
-        </Link>
+       
         <Link to="/">
           <span>
             <AiFillGift />

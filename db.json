@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "name": "zahid",
+      "number": "4",
+      "date": "2022-06-09",
+      "id": 3
+    },
+    {
+      "name": "mubashar",
+      "number": "9",
+      "date": "2022-05-30",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

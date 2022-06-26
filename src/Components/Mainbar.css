@@ -1,0 +1,50 @@
+.mainbar {
+  margin-left: 200px;
+  padding-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 30px;
+  list-style: none;
+}
+.mainbar ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+.Mainbar-heading {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #142d52;
+}
+.bell-Icon {
+  width: 30px;
+
+  color: #bababa;
+}
+.media-user {
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  /* width: 30px;
+  height: 30px; */
+  margin-right: 10px;
+}
+
+.media-body {
+  flex: 1;
+}
+.media-body h6 {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #585858;
+}

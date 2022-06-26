@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import Form from "../Components/Form";
 
 const Draft = () => {
   return (
-    <div style={{background:"red",marginLeft:"200px"}}>Draft</div>
-  )
-}
+    <div style={{  marginLeft: "200px" }}>
+      <Form />
+    </div>
+  );
+};
 
-export default Draft
+export default Draft;
