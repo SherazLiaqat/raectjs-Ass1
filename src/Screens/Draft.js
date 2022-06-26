@@ -2,7 +2,7 @@ import React from 'react'
 
 const Draft = () => {
   return (
-    <div>Draft</div>
+    <div style={{background:"red",marginLeft:"200px"}}>Draft</div>
   )
 }
 

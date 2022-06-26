@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="251.646" height="69.792" viewBox="0 0 251.646 69.792">
+  <g id="logo" transform="translate(-389.354 -232)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-349.646 -130.346)">
+      <g id="Group_1" data-name="Group 1" transform="translate(739 370)">
+        <path id="Path_1" data-name="Path 1" d="M346.38,330.442S397.217,308,395.053,301.234,330.89,276.92,330.89,276.92s47.6,20.286,49.073,25.288S346.38,330.442,346.38,330.442Z" transform="translate(-314.404 -268.304)" fill="#203f9a"/>
+        <path id="Path_2" data-name="Path 2" d="M274.88,229.69l1.39,2.216a3.9,3.9,0,0,0,3.857,1.793l2.589-.365-2.216,1.388a3.909,3.909,0,0,0-1.793,3.864l.365,2.59-1.388-2.216a3.911,3.911,0,0,0-3.864-1.8l-2.589.365,2.215-1.388a3.909,3.909,0,0,0,1.8-3.866Z" transform="translate(-265.628 -229.69)" fill="#f69322"/>
+        <path id="Path_3" data-name="Path 3" d="M242.3,308.72l.679,1.084a1.914,1.914,0,0,0,1.89.877l1.266-.182-1.084.679a1.91,1.91,0,0,0-.877,1.89l.182,1.266-.68-1.084a1.906,1.906,0,0,0-1.888-.877l-1.266.182,1.084-.679a1.914,1.914,0,0,0,.877-1.89Z" transform="translate(-240.52 -294.303)" fill="#f69322"/>
+        <path id="Path_4" data-name="Path 4" d="M368.547,241.22l.463.739a1.306,1.306,0,0,0,1.29.6l.865-.124-.741.463a1.306,1.306,0,0,0-.6,1.29l.124.865-.465-.739a1.3,1.3,0,0,0-1.29-.6l-.865.124.741-.463a1.3,1.3,0,0,0,.6-1.292Z" transform="translate(-344.196 -239.117)" fill="#f69322"/>
+      </g>
+    </g>
+    <text id="SECURITY" transform="translate(475 270)" fill="#203f9a" font-size="36" font-family="MicrosoftPhagsPa-Bold, Microsoft PhagsPa" font-weight="700"><tspan x="0" y="0">SECURITY</tspan></text>
+    <text id="Management" transform="translate(477 293)" fill="#f69322" font-size="20" font-family="SegoeUI, Segoe UI" letter-spacing="0.246em"><tspan x="0" y="0">Management</tspan></text>
+  </g>
+</svg>

@@ -3,12 +3,14 @@ import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
 import Home from "./Screens/Home";
 import Draft from "./Screens/Draft";
 import Archive from "./Screens/Archive";
+import Dashboard from "./Components/Dashboard";
+import Sidebar from "./Components/Sidebar";
 function App() {
   return (
     <>
       <Router>
         <div>
-          <ul>
+          {/* <ul style={{ marginLeft: "50px", display: "flex" }}>
             <li>
               <Link to="/">Home</Link>
             </li>
@@ -20,7 +22,8 @@ function App() {
             </li>
           </ul>
 
-          <hr />
+          <hr /> */}
+          <Sidebar />
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/archive" element={<Archive />} />
