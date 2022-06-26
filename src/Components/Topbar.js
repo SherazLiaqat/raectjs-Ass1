@@ -13,23 +13,24 @@ const Topbar = () => {
             fontWeight: 400,
             fontFamily: "Roboto",
             listStyle: "none",
+            color:"#898989",
           }}
         >
           <Link to="/">
-            <li>Active</li>
+            <li className="haeding-btn">Active</li>
           </Link>
           <Link to="archive">
-            <li className="mx-2">Archive</li>
+            <li className="haeding-btn mx-2">Archive</li>
           </Link>
           <Link to="darft">
-            <li className="mx-2">Draft</li>
+            <li className="haeding-btn mx-2">Draft</li>
           </Link>
         </ul>
 
-        <ul style={{ listStyle: "none" }}>
+        <ul  style={{ listStyle: "none" }}>
 
-          <Link to="draft" className="heading-btn">
-            <button class="btn " type="submit">
+          <Link to="draft"  >
+            <button className="btn-main"  type="submit">
               Create New Recruitement
             </button>
           </Link>

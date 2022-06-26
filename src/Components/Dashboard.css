@@ -113,6 +113,10 @@
   text-decoration: none;
   border-radius: 3px 3px 0 0;
 }
+.haeding-btn {
+  color: #898989;
+  text-decoration: none;
+}
 .heading-btn {
   background: #06bf97;
   /* color: #fff; */
@@ -122,6 +126,29 @@
   font-size: 16px;
   border: 1px solid #06bf97;
   border-radius: 3px;
+}
+.btn-main{
+  background: #06BF97 !important;
+    border: 1px solid #06BF97;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+.btn-main{
+  background: #06BF97 !important;
+    border: 1px solid #06BF97;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+.btn-main2{
+  
+ 
+    border: 1px solid #06BF97;
+    border-radius: 3px;
+    background-color: #fff;
+    color: #06BF97;
+    cursor: pointer;
 }
 .haedingimg {
   /* position: absolute; */

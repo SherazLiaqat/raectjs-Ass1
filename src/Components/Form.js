@@ -93,14 +93,10 @@ const Form = () => {
           />
         </div> */}
         <div className="my-3  d-flex justify-content-end">
-          <button
-            className="btn btn-outline-success mx-2 rounded-0"
-            value="reset"
-            type="reset"
-          >
+          <button className="btn-main2  mx-2 " value="reset" type="reset">
             cancel
           </button>
-          <button className="btn btn-success rounded-0" type="submit">
+          <button className="btn-main" type="submit">
             Save & Continue
           </button>
         </div>
